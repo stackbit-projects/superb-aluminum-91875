@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/pexels-karolina-grabowska-4020665.jpg
+    image: images/majestic-jupiter.jpg
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: >-
