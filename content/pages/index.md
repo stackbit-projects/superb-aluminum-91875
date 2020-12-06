@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/pexels-nataliya-vaitkevich-5425893.jpg
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Fresh Produce Delivery
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
