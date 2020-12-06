@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/pexels-nataliya-vaitkevich-5425893.jpg
     image_alt: App preview
-    title: Fresh Produce Delivery
+    title: Produce Delivery
     content: >-
       Get freshly-picked fruits and vegetables right to your door. Support your
       local farmers and their families.
