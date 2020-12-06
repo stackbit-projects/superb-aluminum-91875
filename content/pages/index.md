@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Fresh Produce Delivery
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Get freshly-picked fruits and vegetables right to your door. Support your
+      local farmers and their families.
     actions:
       - label: Learn More
         url: /features
