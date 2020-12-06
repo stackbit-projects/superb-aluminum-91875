@@ -10,7 +10,7 @@ sections:
       Get freshly-picked fruits and vegetables right to your door. Support your
       local farmers and their families.
     actions:
-      - label: Learn More
+      - label: Order Now
         url: /features
         primary: true
   - section_id: features
