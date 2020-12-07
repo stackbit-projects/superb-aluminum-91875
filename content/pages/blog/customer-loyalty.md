@@ -1,5 +1,5 @@
 ---
-title: 'Spinach Chicken & '
+title: Spinach Chicken & Pomegranate Saled
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
