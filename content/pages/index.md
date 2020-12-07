@@ -54,6 +54,7 @@ sections:
         actions:
           - label: Learn More About Immune Boosters
             url: /features
+            primary: true
   - section_id: reviews
     type: section_reviews
     background: white
