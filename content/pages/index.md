@@ -82,7 +82,7 @@ sections:
     title: Order Your Farm Box Today
     subtitle: Guaranteed delivery within 2 business days.
     actions:
-      - label: Pick Your Box
+      - label: Choose Your Box
         url: /signup
         primary: true
   - section_id: recent-posts
