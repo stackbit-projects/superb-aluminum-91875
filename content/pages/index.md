@@ -80,7 +80,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Order Your Farm Box Today
-    subtitle: 'Guaranteed delivery by '
+    subtitle: Guaranteed delivery within 2 business days.
     actions:
       - label: Get Started
         url: /signup
