@@ -25,9 +25,9 @@ sections:
         image: images/pexels-ruby-sengar-5679194.jpg
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Blueberries, strawberries, raspberries, blackberries, elderberries and
+          cherries — get your antioxidants free of pecticides, detergents and
+          other harmful chemicals.
         actions:
           - label: Learn More
             url: /features
