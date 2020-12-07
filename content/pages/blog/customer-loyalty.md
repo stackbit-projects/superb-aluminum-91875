@@ -4,7 +4,7 @@ subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
   Boost your immune system without compromising on the taste — this healthy
-  lunch recipe uses seasonal offerings together with 
+  lunch recipe uses seasonal offerings together with timeless spices to 
 date: '2019-04-23'
 thumb_image: images/pexels-kaboompics-com-5916 (1).jpg
 thumb_image_alt: A group of people working in a cafe
