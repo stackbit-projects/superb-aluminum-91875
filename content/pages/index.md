@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Seasonal Selections
-    subtitle: ''
+    subtitle: 'Our farm boxes '
     features:
       - title: Organic Berries
         image: images/pexels-brian-van-den-heuvel-1350964.jpg
