@@ -1,7 +1,7 @@
 {
     "title": "Azimuth",
     "path_prefix": "/",
-    "palette": "green",
+    "palette": "purple",
     "header": {
         "logo_img": "images/Screen Shot 2020-12-06 at 22.31.03.png",
         "has_nav": true,
