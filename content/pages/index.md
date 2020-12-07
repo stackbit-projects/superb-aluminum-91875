@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Fresh Farm Box
     content: >-
-      **Get freshly-picked produce delivered right to your door. Support your
-      local farmers and their families!**
+      Get freshly-picked produce delivered right to your door. Support your
+      local farmers and their families!
     actions:
       - label: Order Now
         url: /features
