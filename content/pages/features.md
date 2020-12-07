@@ -38,7 +38,7 @@ sections:
     title: Order Your Farm Box Today
     subtitle: Guaranteed delivery within 2 business days!
     actions:
-      - label: Get Started
+      - label: Choose Your Box
         url: '#'
 layout: landing
 ---
