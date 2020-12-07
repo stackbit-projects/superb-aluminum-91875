@@ -19,7 +19,7 @@
                 "url": "/pricing"
             },
             {
-                "label": "Sign Up",
+                "label": "Order Now",
                 "url": "/signup",
                 "primary": true
             }
