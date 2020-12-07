@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Farm Box Options
-    subtitle: We've got options to fit any budget. F
+    subtitle: We've got options to fit any budget. From personal
     pricing_plans:
       - title: Personal
         price: $249/m
