@@ -21,7 +21,7 @@ sections:
       We collaborate with local farms to offer you the largest variety of
       seasonal offerings.
     features:
-      - title: The Best Feature of Your Services
+      - title: Organic Berries
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
