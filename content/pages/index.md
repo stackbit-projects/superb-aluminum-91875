@@ -19,7 +19,7 @@ sections:
     title: Seasonal Selections
     subtitle: >-
       You can expect only top-quality, organic produce that is seasonally
-      available at our farm or
+      available at our farm or 
     features:
       - title: Organic Berries
         image: images/pexels-brian-van-den-heuvel-1350964.jpg
