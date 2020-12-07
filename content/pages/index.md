@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/pexels-sharon-mccutcheon-1196516.jpg
     image_alt: App preview
-    title: 'Your Fresh Produce, Delivered with Care'
+    title: 'Your Fresh Produce, Delivered with Love'
     content: >-
       Get freshly-picked produce delivered right to your door. Support your
       local farmers and their families!
