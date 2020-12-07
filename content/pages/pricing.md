@@ -10,7 +10,7 @@ sections:
       - title: Personal
         price: $249/m
         details: >-
-          Perfect for one, healthey person! With 10 lbs / 5 kg of freshly picked
+          Perfect for one, healthey person! With 10 lbs of freshly picked
           produce, 2 artisan cheeses and 3 cured meats, you will be set for a
           week's worth of healthy meals and snacks.
         actions:
