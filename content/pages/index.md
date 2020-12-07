@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: gray
     title: What's for Lunch?
-    subtitle: >-
-      We collaborate with local farms to offer you the largest variety of
-      seasonal offerings.
+    subtitle: Farmer Jo
     features:
       - title: Organic Berries
         image: images/pexels-brian-van-den-heuvel-1350964.jpg
