@@ -33,7 +33,7 @@ sections:
             url: /features
             primary: false
       - title: Greens
-        image: images/feature2.png
+        image: images/pexels-public-domain-pictures-42227.jpg
         image_alt: App users welcoming a new member
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
