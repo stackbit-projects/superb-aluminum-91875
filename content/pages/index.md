@@ -57,9 +57,7 @@ sections:
     type: section_reviews
     background: white
     title: Our Customer Say
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+    subtitle: 'Here''s what some '
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
