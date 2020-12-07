@@ -44,7 +44,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: >-
       Some of the questions we receive can be found here. If you couldn't find
-      an answer to your question, please contact us at office@farmerjoe.com
+      an answer to your question, please contact us at office@farmerjoeboxes.com
     faq_items:
       - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
         answer: >-
