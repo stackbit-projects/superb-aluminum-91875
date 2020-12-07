@@ -29,7 +29,7 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         actions:
-          - label: Learn More
+          - label: Order Now
             url: /features
       - title: Antioxidants
         image: images/pexels-ruby-sengar-5679194.jpg
