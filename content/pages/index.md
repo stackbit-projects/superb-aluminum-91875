@@ -43,7 +43,7 @@ sections:
           - label: Learn More
             url: /features
       - title: Immune Boosters
-        image: images/feature3.png
+        image: images/pexels-mali-maeder-244393.jpg
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
