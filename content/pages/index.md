@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Available Now
+    title: 'What''s '
     subtitle: >-
       We collaborate with local farms to offer you the largest variety of
       seasonal offerings.
