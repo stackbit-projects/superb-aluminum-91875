@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: What to Expect
+    title: Seasonal Selections
     subtitle: ''
     features:
       - title: Organic Berries
