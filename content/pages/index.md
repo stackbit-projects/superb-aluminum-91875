@@ -65,7 +65,7 @@ sections:
           Every Tuesday when I get my farm box I feel a little like a kid on
           Christmas morning. I can't help it! I love everything from the
           packaging to the smell and of course taste of everything I get. 
-      - author: 'Shira '
+      - author: Sh
         avatar: images/review2.jpg
         content: >-
           We like to plan our family's weekly meal schedule according to Farmer
