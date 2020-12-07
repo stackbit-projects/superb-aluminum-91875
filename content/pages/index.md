@@ -21,7 +21,7 @@ sections:
       You can expect only top-quality, organic produce that is locally-grown or
       readily available at our farm.
     features:
-      - title: Antioxidant Berries
+      - title: Antioxidants
         image: images/terrific-iron.jpg
         image_alt: App preview on a phone and tablet
         content: >-
