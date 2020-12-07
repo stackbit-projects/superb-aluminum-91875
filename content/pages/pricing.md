@@ -42,7 +42,9 @@ sections:
     type: section_faq
     background: gray
     title: Frequently Asked Questions
-    subtitle: 'Some of the questions we receive '
+    subtitle: >-
+      Some of the questions we receive can be found here. If you couldn't find
+      you
     faq_items:
       - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
         answer: >-
