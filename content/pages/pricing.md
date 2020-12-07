@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Farm Box Options
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: Whether you'
     pricing_plans:
       - title: Personal
         price: $249/m
