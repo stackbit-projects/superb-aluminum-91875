@@ -76,7 +76,7 @@ sections:
         content: >-
           I found out about Farmer Joe from the restaurant I worked at, and we
           had such a great relationship with this vendor that I ended up
-          becoming a personal customer as well. 
+          becoming a personal customer and ordering boxes for my home as well. 
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
