@@ -10,18 +10,25 @@ sections:
     content: >-
       We have purchased 30 achres of land from an elderly couple whose ancestors
       had a productive farm for over 6 decades. We fell in love with it
-      immediately and 
+      immediately and vowed to uphold the same values and practices engrained in
+      the land for generations. We continue the tradition by operating a family
+      business that is focused on love and integrity to our earth, our
+      community, and our customers.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      In our farm you will find:
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      * Fresh vegetables and fruit, picked daily
+
+      * Hormone-free chicken and free ranged eggs
+
+      * Artisan cheese and cold cut, smoked meat
+
+
+      We also collaborate with neighbouring farms to offer seasonal selections
+      from their wonderful treasures so that you can get the largest variety of
+      choices to enjoy.
     actions:
       - label: Free Trial
         url: /signup
