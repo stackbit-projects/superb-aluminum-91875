@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/famous-octopus.jpg
+    image: images/majestic-aspen.jpg
     image_alt: App preview
     title: Fresh Farm Box
     content: >-
