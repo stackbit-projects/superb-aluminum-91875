@@ -1,8 +1,6 @@
 ---
 title: Homemade Frutti Di Mare
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+excerpt: Always wanted to learn how to make proper seafood pasta with
 author: content/data/authors/jane-doe.yaml
 date: '2019-04-22'
 thumb_image: images/pleasant-oregano.jpg
