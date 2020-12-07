@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/majestic-aspen.jpg
+    image: images/pexels-sharon-mccutcheon-1196516.jpg
     image_alt: App preview
     title: 'Your Fresh Produce, Delivered with Care'
     content: >-
