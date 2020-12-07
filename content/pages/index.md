@@ -17,7 +17,9 @@ sections:
     type: section_features
     background: gray
     title: Seasonal Selections
-    subtitle: 'Our farm boxes change constantly according to the season and available '
+    subtitle: >-
+      Our farm boxes change constantly according to the season and available
+      produce. We will never 
     features:
       - title: Organic Berries
         image: images/pexels-brian-van-den-heuvel-1350964.jpg
