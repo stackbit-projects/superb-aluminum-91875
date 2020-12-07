@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/pexels-nataliya-vaitkevich-5425893.jpg
+    image: images/pexels-ylanite-koppens-709907.jpg
     image_alt: App preview
     title: Fresh Farm Box
     content: >-
