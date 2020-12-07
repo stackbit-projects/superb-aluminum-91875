@@ -19,7 +19,7 @@ sections:
     title: Weekly Highlights
     subtitle: >-
       You can expect only top-quality, organic produce that is locally-grown or
-      readily available at our farm. Here are some favorites 
+      readily available at our farm. Here are some of this week's favorites. 
     features:
       - title: Antioxidants
         image: images/terrific-iron.jpg
