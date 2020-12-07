@@ -42,7 +42,7 @@ sections:
         actions:
           - label: Explore Berry Selection
             url: /features
-            primary: false
+            primary: true
       - title: Roots
         image: images/pexels-mali-maeder-244393.jpg
         image_alt: App user profile preview
