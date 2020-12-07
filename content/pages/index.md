@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/pexels-ylanite-koppens-3036363.jpg
+    image: images/pexels-tim-mossholder-1549666.jpg
     image_alt: App preview
     title: Fresh Farm Box
     content: >-
