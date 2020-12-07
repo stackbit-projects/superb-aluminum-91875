@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: What's for Lunch?
-    subtitle: Farmer Jo
+    subtitle: Farmer Joe
     features:
       - title: Organic Berries
         image: images/pexels-brian-van-den-heuvel-1350964.jpg
