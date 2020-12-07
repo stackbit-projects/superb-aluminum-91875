@@ -69,7 +69,7 @@ sections:
         avatar: images/review2.jpg
         content: >-
           We like to plan our family's weekly meal schedule according to Farmer
-          Joe's farm box — it's a fool proof method to make sure your food
+          Joe's farm box . It's a fool proof method to make sure your food
           tastes great, even if you're not the greatest cook :)
       - author: Richard Roe
         avatar: images/review3.jpg
