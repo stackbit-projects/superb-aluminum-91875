@@ -32,7 +32,7 @@ sections:
           - label: Explore Berry Selection
             url: /features
             primary: false
-      - title: Healthy Greens
+      - title: Greens
         image: images/pexels-public-domain-pictures-42227.jpg
         image_alt: App users welcoming a new member
         content: >-
