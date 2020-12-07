@@ -61,7 +61,10 @@ sections:
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
-        content: Every Tuesday when I get my farm box
+        content: >-
+          Every Tuesday when I get my farm box I feel a little like a kid on
+          Christmas morning. I can't help it! I love everything from the
+          packaging to the smell and of course taste of everything I get. 
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
