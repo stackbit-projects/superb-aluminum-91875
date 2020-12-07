@@ -31,6 +31,7 @@ sections:
         actions:
           - label: Explore Berry Selection
             url: /features
+            primary: true
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
