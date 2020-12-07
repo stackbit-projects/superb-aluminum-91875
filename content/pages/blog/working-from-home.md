@@ -5,7 +5,7 @@ excerpt: >-
   This week's farm box includes shrimp and mussels from our neighbours.  It's
   easier than you think!
 author: content/data/authors/jane-doe.yaml
-date: '0002-04-22'
+date: '2020-04-22'
 thumb_image: images/pleasant-oregano.jpg
 thumb_image_alt: People in a conference room
 image: images/9.jpg
