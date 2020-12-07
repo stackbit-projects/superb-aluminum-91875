@@ -22,7 +22,7 @@ sections:
       readily available at our farm.
     features:
       - title: Organic Berries
-        image: images/pexels-anastasia-shuraeva-4512810.jpg
+        image: images/terrific-iron.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Blueberries, strawberries, raspberries, blackberries, elderberries and
