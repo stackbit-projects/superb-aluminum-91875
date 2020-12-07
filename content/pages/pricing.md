@@ -31,7 +31,7 @@ sections:
             url: /signup
             primary: true
       - title: Group
-        price: $149/m
+        price: $1799/m
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
