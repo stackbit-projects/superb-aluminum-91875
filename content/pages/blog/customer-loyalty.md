@@ -3,8 +3,8 @@ title: 'Spinach, Chicken & Pomegranate Salad'
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  Boost your immune system without compromising on the taste — this healthy
+  lunch recipe will 
 date: '2019-04-23'
 thumb_image: images/pexels-kaboompics-com-5916 (1).jpg
 thumb_image_alt: A group of people working in a cafe
