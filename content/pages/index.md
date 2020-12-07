@@ -59,7 +59,7 @@ sections:
     title: Testimonials
     subtitle: Here's what some of our customers say about their experience.
     reviews:
-      - author: Alex Ro
+      - author: Alex Rhodes
         avatar: images/review1.jpg
         content: >-
           Every Tuesday when I get my farm box I feel a little like a kid on
