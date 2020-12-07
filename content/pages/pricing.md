@@ -46,7 +46,7 @@ sections:
       Some of the questions we receive can be found here. If you couldn't find
       an answer to your question, please contact us at office@farmerjoeboxes.com
     faq_items:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+      - question: I am going out of town. Can I skip a week's delivery?
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
