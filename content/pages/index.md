@@ -22,7 +22,7 @@ sections:
       readily available at our farm. Here are some of this week's favorites. 
     features:
       - title: Antioxidants
-        image: images/terrific-iron.jpg
+        image: images/pexels-carlos-armando-melo-1269611.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Blueberries, strawberries, raspberries, blackberries, elderberries and
