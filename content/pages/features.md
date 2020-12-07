@@ -30,7 +30,7 @@ sections:
       from their wonderful treasures so that you can get the largest variety of
       choices to enjoy.
     actions:
-      - label: Free Trial
+      - label: Order Now
         url: /signup
         primary: true
       - label: View Demo
