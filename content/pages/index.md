@@ -17,7 +17,9 @@ sections:
     type: section_features
     background: gray
     title: Our Products
-    subtitle: 'We collaborate with '
+    subtitle: >-
+      We collaborate with local farms to offer you the largest variety of
+      seasonal offerings.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
