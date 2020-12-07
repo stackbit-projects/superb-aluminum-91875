@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Seasonal Selections
+    title: Weekly Highlights
     subtitle: >-
       You can expect only top-quality, organic produce that is locally-grown or
       readily available at our farm.
