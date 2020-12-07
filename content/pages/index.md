@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: 'What''s '
+    title: What's for Lunch?
     subtitle: >-
       We collaborate with local farms to offer you the largest variety of
       seasonal offerings.
