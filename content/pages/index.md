@@ -52,7 +52,7 @@ sections:
           variety of earthy roots to balance the adrenal system and support
           liver and kidney function.
         actions:
-          - label: Learn More About Immu
+          - label: Learn More About Immune Boosters
             url: /features
   - section_id: reviews
     type: section_reviews
