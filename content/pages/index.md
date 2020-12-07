@@ -79,7 +79,7 @@ sections:
           becoming a personal customer and ordering boxes for my home as well. 
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Order Your Farm Box Today
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
