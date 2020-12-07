@@ -5,7 +5,9 @@ sections:
     type: section_pricing
     background: gray
     title: Farm Box Options
-    subtitle: We've got options to fit any budget. From personal
+    subtitle: >-
+      We've got options to fit any budget. From personal use to family and even
+      group plans, we've got you covered!
     pricing_plans:
       - title: Personal
         price: $249/m
