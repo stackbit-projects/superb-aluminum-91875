@@ -36,7 +36,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Order Your Farm Box Today
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Guaranteed delivery within 2 business days!
     actions:
       - label: Get Started
         url: '#'
