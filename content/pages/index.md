@@ -42,7 +42,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Immune Boosters
+      - title: Roots
         image: images/pexels-mali-maeder-244393.jpg
         image_alt: App user profile preview
         content: >-
