@@ -44,7 +44,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: >-
       Some of the questions we receive can be found here. If you couldn't find
-      you
+      an answer to your question, please contact us at 
     faq_items:
       - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
         answer: >-
