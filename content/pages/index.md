@@ -29,7 +29,7 @@ sections:
           cherries — get your antioxidants free of pecticides, detergents and
           other harmful chemicals.
         actions:
-          - label: Learn More
+          - label: Explore Berry Selection
             url: /features
       - title: Awesome Feature of Your Services
         image: images/feature2.png
