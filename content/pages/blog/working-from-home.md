@@ -1,5 +1,5 @@
 ---
-title: Homemade Frutti Di Mare
+title: Homemade Frutti di Mare
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
