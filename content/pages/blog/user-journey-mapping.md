@@ -5,8 +5,8 @@ subtitle: >-
   aliquet rhoncus sed, hendrerit vel odio.
 excerpt: >-
   Enjoy your berry selection on top of a rich, creamy cheesecake that will leave
-  everyone wanting "just one more slice." Works with strawberries, blueberries,
-  or raspberries.
+  everyone wanting "just one more slice." Replace strawberries, blueberries, or
+  raspberries.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/pexels-suzy-hazelwood-1126359.jpg
