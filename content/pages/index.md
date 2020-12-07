@@ -46,9 +46,10 @@ sections:
         image: images/pexels-mali-maeder-244393.jpg
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          There's never a shortage of reasons to take care of your immune
+          system, especially with our COVID19 reality. Farmer Joe offers a wide
+          variety of earthy roots to balance the adrenal system and support
+          liver and kidney function.
         actions:
           - label: Learn More
             url: /features
