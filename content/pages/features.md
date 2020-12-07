@@ -32,7 +32,7 @@ sections:
     actions:
       - label: Order Now
         url: /signup
-        primary: false
+        primary: true
       - label: View Demo
         url: '#'
   - section_id: call-to-action
