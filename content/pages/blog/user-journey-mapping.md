@@ -3,9 +3,7 @@ title: Strawberry Topped Cheesecake
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
-excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+excerpt: 'Enjoy your '
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/pexels-suzy-hazelwood-1126359.jpg
