@@ -29,11 +29,10 @@ sections:
             primary: true
       - title: Group
         price: $799/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+        details: >-
+          Why not purchase a plan together? Our group farm box is designed for 3
+          families and carries a significant discount on 3 family boxes aimed to
+          nourish and support 10-15 people.
         actions:
           - label: Order Now
             url: /signup
