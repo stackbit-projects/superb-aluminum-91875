@@ -17,7 +17,7 @@ sections:
         actions:
           - label: Order Now
             url: /signup
-      - title: Professional
+      - title: Family
         price: $399/m
         details: |-
           * Curabitur non nunc mollis
