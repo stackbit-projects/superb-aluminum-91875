@@ -22,7 +22,7 @@ sections:
       seasonal offerings.
     features:
       - title: Organic Berries
-        image: images/festive-kangaroo.png
+        image: images/pexels-ruby-sengar-5679194.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
