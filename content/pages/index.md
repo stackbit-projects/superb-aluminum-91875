@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Our Products
-    subtitle: We
+    subtitle: 'We collaborate with '
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
