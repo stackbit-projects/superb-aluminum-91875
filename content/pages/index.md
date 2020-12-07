@@ -32,7 +32,7 @@ sections:
           - label: Explore Berry Selection
             url: /features
             primary: false
-      - title: Awesome Feature of Your Services
+      - title: Greens
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
