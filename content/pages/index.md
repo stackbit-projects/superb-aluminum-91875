@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/majestic-aspen.jpg
     image_alt: App preview
-    title: 'Your Produce, Delivered with Care'
+    title: 'Your Fresh Produce, Delivered with Care'
     content: >-
       Get freshly-picked produce delivered right to your door. Support your
       local farmers and their families!
