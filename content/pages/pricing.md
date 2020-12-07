@@ -10,9 +10,9 @@ sections:
       - title: Personal
         price: $249/m
         details: >-
-          Our personal plan is perfect for one, healthey person! With 10 lbs / 5
-          kg of freshly picked produce, 2 artisan cheeses and 3 cured meats, you
-          will be set for a week's worth of healthy meals and snacks.
+          Perfect for one, healthey person! With 10 lbs / 5 kg of freshly picked
+          produce, 2 artisan cheeses and 3 cured meats, you will be set for a
+          week's worth of healthy meals and snacks.
         actions:
           - label: Order Now
             url: /signup
