@@ -18,12 +18,10 @@ sections:
             url: /signup
       - title: Family
         price: $399/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+        details: >-
+          Our family plan is designed to feed 2 adults and 3 children. With
+          larger quantities of produce, cheese and meat, as well as a wider
+          variety to fit everyone's taste.
         highlight: true
         actions:
           - label: Order Now
