@@ -74,8 +74,9 @@ sections:
       - author: Richard Roe
         avatar: images/review3.jpg
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          I found out about Farmer Joe from the restaurant I worked at, and we
+          had such a great relationship with this vendor that I ended up
+          becoming a personal customer as well. 
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
