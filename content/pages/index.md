@@ -22,7 +22,7 @@ sections:
       seasonal offerings.
     features:
       - title: Organic Berries
-        image: images/pexels-nick-bondarev-4558306.jpg
+        image: images/pexels-lisa-fotios-863147.jpg
         image_alt: App preview on a phone and tablet
         content: >-
           Blueberries, strawberries, raspberries, blackberries, elderberries and
