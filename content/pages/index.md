@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/adorable-neptune.jpg
+    image: images/pexels-public-domain-pictures-41964.jpg
     image_alt: App preview
     title: Fresh Farm Box
     content: >-
