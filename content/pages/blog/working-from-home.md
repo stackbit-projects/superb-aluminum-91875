@@ -2,7 +2,7 @@
 title: Homemade Frutti Di Mare
 excerpt: >-
   Always wanted to learn how to make proper seafood pasta? Now is your chance!
-  This week's farm box includes shrimp and 
+  This week's farm box includes shrimp and mussles from our neighbour
 author: content/data/authors/jane-doe.yaml
 date: '2019-04-22'
 thumb_image: images/pleasant-oregano.jpg
