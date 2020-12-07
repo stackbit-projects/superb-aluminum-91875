@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Seasonal Selections
-    subtitle: >-
-      Our farm boxes change constantly according to the season and available
-      produce. We will never send you chemically-treated or non-local products!
+    subtitle: 'You can expect only top-quality, '
     features:
       - title: Organic Berries
         image: images/pexels-brian-van-den-heuvel-1350964.jpg
