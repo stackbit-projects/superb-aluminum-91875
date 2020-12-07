@@ -42,7 +42,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Earth
+      - title: Earths
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
