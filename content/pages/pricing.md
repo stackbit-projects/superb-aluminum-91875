@@ -18,7 +18,7 @@ sections:
           - label: Order Now
             url: /signup
       - title: Professional
-        price: $429/m
+        price: $329/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula
