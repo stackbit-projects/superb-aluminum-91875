@@ -57,7 +57,7 @@ sections:
     type: section_reviews
     background: white
     title: Our Customer Say
-    subtitle: 'Here''s what some Farmer Joe '
+    subtitle: 'Here''s what some Farmer Joe subscribers '
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
