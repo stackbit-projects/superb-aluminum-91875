@@ -56,7 +56,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Our Customer Say
+    title: Testimonials
     subtitle: Here's what some Farmer Joe subscribers say about their experience.
     reviews:
       - author: John Doe
