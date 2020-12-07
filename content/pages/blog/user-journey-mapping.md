@@ -3,7 +3,9 @@ title: Strawberry Topped Cheesecake
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
-excerpt: Enjoy your berry selection in you
+excerpt: >-
+  Enjoy your berry selection on top of a rich, creamy cheesecake that will leave
+  everyone wanting "just one more slide."
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-27'
 thumb_image: images/pexels-suzy-hazelwood-1126359.jpg
