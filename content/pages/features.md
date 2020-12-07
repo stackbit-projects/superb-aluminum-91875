@@ -33,8 +33,6 @@ sections:
       - label: Order Now
         url: /signup
         primary: true
-      - label: View Demo
-        url: '#'
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
