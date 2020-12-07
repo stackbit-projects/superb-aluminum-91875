@@ -31,6 +31,7 @@ sections:
         actions:
           - label: Order Now
             url: /features
+            primary: true
       - title: Antioxidants
         image: images/pexels-ruby-sengar-5679194.jpg
         image_alt: App preview on a phone and tablet
