@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Order Now
         url: /features
-        primary: true
+        primary: false
   - section_id: features
     type: section_features
     background: gray
