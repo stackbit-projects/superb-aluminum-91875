@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: What's for Lunch?
+    title: What to Expect
     subtitle: ''
     features:
       - title: Organic Berries
