@@ -21,6 +21,16 @@ sections:
       You can expect only top-quality, organic produce that is locally-grown or
       readily available at our farm. Here are some of this week's favorites. 
     features:
+      - title: Greens
+        image: images/pexels-public-domain-pictures-42227.jpg
+        image_alt: App users welcoming a new member
+        content: >-
+          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
+          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
+          auctor.
+        actions:
+          - label: Learn More
+            url: /features
       - title: Antioxidants
         image: images/pexels-ruby-sengar-5679194.jpg
         image_alt: App preview on a phone and tablet
@@ -32,16 +42,6 @@ sections:
           - label: Explore Berry Selection
             url: /features
             primary: false
-      - title: Greens
-        image: images/pexels-public-domain-pictures-42227.jpg
-        image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        actions:
-          - label: Learn More
-            url: /features
       - title: Roots
         image: images/pexels-mali-maeder-244393.jpg
         image_alt: App user profile preview
