@@ -1,6 +1,6 @@
 ---
 title: Homemade Frutti Di Mare
-excerpt: Always wanted to learn how to make proper seafood pasta with
+excerpt: 'Always wanted to learn how to make proper seafood pasta? Now is your chance! '
 author: content/data/authors/jane-doe.yaml
 date: '2019-04-22'
 thumb_image: images/pleasant-oregano.jpg
