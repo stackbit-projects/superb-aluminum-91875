@@ -71,7 +71,7 @@ sections:
           We like to plan our family's weekly meal schedule according to Farmer
           Joe's farm box . It's a fool proof method to make sure your food
           tastes great, even if you're not the greatest cook :)
-      - author: Richard Roe
+      - author: 'Roberto '
         avatar: images/review3.jpg
         content: >-
           I found out about Farmer Joe from the restaurant I worked at, and we
