@@ -30,7 +30,7 @@ sections:
           - label: Order Now
             url: /signup
             primary: true
-      - title: Enterprise
+      - title: Group
         price: $149/m
         details: |-
           * Vestibulum non eros quis
