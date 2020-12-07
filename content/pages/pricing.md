@@ -10,10 +10,10 @@ sections:
       - title: Personal
         price: $249/m
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * 10 lbs / 5 kg of freshly picked produce
+          * 2 artisan cheese selections
+          * 3 cured meat packs
+          * Perfect for one, healthy person!
         actions:
           - label: Order Now
             url: /signup
