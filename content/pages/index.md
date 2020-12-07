@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/pexels-madison-inouye-1527010.jpg
+    image: images/adorable-neptune.jpg
     image_alt: App preview
     title: Fresh Farm Box
     content: >-
